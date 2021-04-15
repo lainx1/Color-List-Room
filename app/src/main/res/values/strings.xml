@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Color List Room</string>
+    
+    <!--    Floating Action Button-->
+    <string name="fab_message">Agregar</string>
+    
+    <!--Add color activity-->
+    <string name="title_activity_add_color">Agregar color</string>
+    <string name="pick_color_button">Elegir</string>
+    <string name="color_name_hint">Nombre del color.</string>
+
+    <!--Coloir picker-->
+    <string name="pick_a_color">Elige un color</string>
+
+    <string name="save_color_button">Guardar</string>
+
+    <!--Coloir item menu-->
+    <string name="delete_color_menu">Borrar</string>
+
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+</resources>
